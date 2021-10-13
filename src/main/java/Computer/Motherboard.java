@@ -1,8 +1,8 @@
 package Computer;
 
 public class Motherboard {
-    String MotherBoard = " MSI Z370G";
+    String MotherBoard1 = " MSI Z370G";
      void MotherBoard(){
-         System.out.println(" MSI Z370G");
+         System.out.println(" MSI -  Z370G");
      }
 }
